@@ -1,7 +1,7 @@
 <!-- create a new repository on the command line -->
-
+<!-- the run the beolow command one by one -->
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 
 <!-- Run all below command at ones after the first one -->
